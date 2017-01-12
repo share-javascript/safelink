@@ -32,7 +32,7 @@ if(x=="10"){xxx="/2016/11/common-mistakes-in-buying-car-insurance.html"}
 if(x=="11"){xxx="/2016/11/how-to-opt-best-car-insurance.html"}
 if(x=="12"){xxx="/2016/11/buying-life-insurance.html"}
 if(x=="13"){xxx="/2016/11/should-know-about-life-insurance.html"}
-a_to_ve[i].href="http://www.link-download.id"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+a_to_ve[i].href="http://www.financeforinsurance.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
